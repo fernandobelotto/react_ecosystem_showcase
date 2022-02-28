@@ -1,7 +1,7 @@
 import { Box, Button, Text } from "@chakra-ui/react";
 import Link from "next/link";
 
-export function LinkCard(props) {
+export function LinkCard(props: any) {
   return (
     <>
       <Link href={props.categorie.link} passHref>
