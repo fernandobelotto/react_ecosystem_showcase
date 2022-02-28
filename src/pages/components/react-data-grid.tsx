@@ -1,22 +1,23 @@
-import React, { ReactElement } from "react";
-import DataGrid from "react-data-grid";
+export { }
+// import React, { ReactElement } from "react";
+// import DataGrid from "react-data-grid";
 
-interface Props {}
+// interface Props {}
 
-const columns = [
-  { key: "id", name: "ID" },
-  { key: "title", name: "Title" },
-];
+// const columns = [
+//   { key: "id", name: "ID" },
+//   { key: "title", name: "Title" },
+// ];
 
-const rows = [
-  { id: 0, title: "Example" },
-  { id: 1, title: "Demo" },
-];
+// const rows = [
+//   { id: 0, title: "Example" },
+//   { id: 1, title: "Demo" },
+// ];
 
-export default function ReactDataGrid({}: Props): ReactElement {
-  return (
-    <>
-      <DataGrid columns={columns} rows={rows} />;
-    </>
-  );
-}
+// export default function ReactDataGrid({}: Props): ReactElement {
+//   return (
+//     <>
+//       <DataGrid columns={columns} rows={rows} />;
+//     </>
+//   );
+// }
