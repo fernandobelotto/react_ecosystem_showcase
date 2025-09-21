@@ -15,7 +15,7 @@
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
     "@githubocto/flat-ui": "^0.13.5",
-    "@mui/material": "^5.4.3",
+    "@mui/material": "^5.18.0",
     "@popperjs/core": "^2.11.2",
     "@react-spring/web": "^9.4.3",
     "@types/jest": "^27.4.1",
