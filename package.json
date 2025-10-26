@@ -52,7 +52,7 @@
     "react-simple-maps": "^2.3.0",
     "react-sortable-pane": "^1.1.0",
     "react-spinkit": "^3.0.0",
-    "react-syntax-highlighter": "^15.4.5",
+    "react-syntax-highlighter": "^16.0.0",
     "react-transition-group": "^4.4.2",
     "react-use-measure": "^2.1.1",
     "recharts": "^2.1.9",
